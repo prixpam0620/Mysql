@@ -1,5 +1,5 @@
 # Mysql
-This repository contains mysql projects
+EDA on sample superstore dataset using mysql workbench
 # MySQL Superstore Analysis Project
 
 ## Overview
