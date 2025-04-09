@@ -76,7 +76,14 @@ CREATE TABLE store (
     discount DECIMAL(5, 2),
     profit DECIMAL(10, 2)
 );
----
+Stepes to create database and tables:
+CREATE DATABASE SUPERSTORE;
+USE SUPERSTORE;
+CREATE TABLE STORE;
+
+hence, database and table created.
+we will use superstore.store for our queries in the SQL file.
+
 Analysis Highlights
 Data Cleaning: Removed duplicate order_id entries, keeping the lowest row_id.
 Insights:
